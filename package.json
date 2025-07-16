@@ -46,6 +46,6 @@
     "websocket": "^1.0.33"
   },
   "devDependencies": {
-    "esbuild": "^0.11.14"
+    "esbuild": "^0.25.0"
   }
 }
